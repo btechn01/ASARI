@@ -1,353 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="187cd64a-2af4-4435-9f9d-681aa9bec93e" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/bin/materialize-rtl.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bin/materialize-src-vundefined.zip" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bin/materialize-vundefined.zip" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bin/materialize.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bin/materialize.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bin/materialize.js.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/ghpages-materialize.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/materialize-rtl.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/materialize-rtl.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/materialize.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/materialize.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/prism.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/css/materialize-rtl.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/css/materialize-rtl.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/css/materialize.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/css/materialize.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/fonts/roboto/Roboto-Bold.woff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/fonts/roboto/Roboto-Bold.woff2" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/fonts/roboto/Roboto-Light.woff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/fonts/roboto/Roboto-Light.woff2" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/fonts/roboto/Roboto-Medium.woff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/fonts/roboto/Roboto-Medium.woff2" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/fonts/roboto/Roboto-Regular.woff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/fonts/roboto/Roboto-Regular.woff2" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/fonts/roboto/Roboto-Thin.woff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/fonts/roboto/Roboto-Thin.woff2" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/js/materialize.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/js/materialize.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/extras/noUiSlider/nouislider.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/extras/noUiSlider/nouislider.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/extras/noUiSlider/nouislider.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/roboto/Roboto-Bold.woff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/roboto/Roboto-Bold.woff2" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/roboto/Roboto-Light.woff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/roboto/Roboto-Light.woff2" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/roboto/Roboto-Medium.woff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/roboto/Roboto-Medium.woff2" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/roboto/Roboto-Regular.woff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/roboto/Roboto-Regular.woff2" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/roboto/Roboto-Thin.woff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/roboto/Roboto-Thin.woff2" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/Alan.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/alex.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/alvin.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/bold.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/donate.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/favicon/apple-touch-icon-152x152.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/favicon/favicon-32x32.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/favicon/mstile-144x144.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/kevin.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/kmaterialize.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/m-logo-salmon.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/macbook-left.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/materialize.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/materialize_team.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/menu.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/metaphor.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/motion.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/office.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/parallax-template.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/parallax1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/parallax2.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/responsive.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/sample-1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/showcase/adbeus.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/showcase/closeheat.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/showcase/eadbox.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/showcase/joelcox.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/showcase/kioskbrowser.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/showcase/roboterwelt.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/showcase/stamplay.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/showcase/stephaniejagiello.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/showcase/varun_malhotra.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/showcase/visitsarasota.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/showcase/webonise.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/starter-template.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/toast.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/yuna.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/index2.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jade/404.jade" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jade/_footer.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jade/_head.jade" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jade/_navbar.jade" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jade/_scripts.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jade/about.jade" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jade/about/about_content.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jade/autocomplete.jade" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jade/badges.jade" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jade/breadcrumbs.jade" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jade/buttons.jade" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jade/cards.jade" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jade/carousel.jade" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jade/checkboxes.jade" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jade/chips.jade" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jade/collapsible.jade" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jade/collections.jade" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jade/color.jade" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jade/css-transitions.jade" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jade/dropdown.jade" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jade/feature-discovery.jade" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jade/footer.jade" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jade/fullscreen-slider-demo.jade" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jade/getting-started.jade" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jade/getting_started/getting_started_content.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jade/grid.jade" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jade/helpers.jade" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jade/icons.jade" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jade/index.jade" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jade/index/index_content.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jade/lunr.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jade/media-css.jade" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jade/media.jade" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jade/mobile.jade" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jade/mobile/mobile_content.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jade/modals.jade" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jade/navbar.jade" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jade/page-contents/404_content.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jade/page-contents/autocomplete_content.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jade/page-contents/badges_content.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jade/page-contents/breadcrumbs_content.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jade/page-contents/buttons_content.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jade/page-contents/cards_content.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jade/page-contents/carousel_content.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jade/page-contents/checkboxes_content.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jade/page-contents/chips_content.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jade/page-contents/collapsible_content.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jade/page-contents/collections_content.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jade/page-contents/color_content.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jade/page-contents/css-transitions_content.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jade/page-contents/dropdown_content.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jade/page-contents/featureDiscovery_content.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jade/page-contents/footer_content.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jade/page-contents/fullscreen_slider_demo_content.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jade/page-contents/grid_content.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jade/page-contents/helpers_content.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jade/page-contents/icons_content.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jade/page-contents/media-css_content.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jade/page-contents/media_content.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jade/page-contents/modals_content.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jade/page-contents/navbar_content.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jade/page-contents/pagination_content.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jade/page-contents/parallax_content.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jade/page-contents/parallax_demo_content.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jade/page-contents/pickers_content.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jade/page-contents/preloader_content.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jade/page-contents/pulse_content.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jade/page-contents/pushpin_content.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jade/page-contents/pushpin_demo_content.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jade/page-contents/radio_buttons_content.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jade/page-contents/range_content.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jade/page-contents/sass_content.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jade/page-contents/scrollspy_content.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jade/page-contents/select_content.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jade/page-contents/shadow_content.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jade/page-contents/sidenav_content.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jade/page-contents/support_us_content.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jade/page-contents/switches_content.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jade/page-contents/table_content.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jade/page-contents/tabs_content.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jade/page-contents/text_inputs_content.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jade/page-contents/themes_content.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jade/page-contents/toasts_content.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jade/page-contents/tooltips_content.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jade/page-contents/typography_content.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jade/page-contents/waves_content.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jade/pagination.jade" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jade/parallax-demo.jade" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jade/parallax.jade" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jade/parallax/parallax_content.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jade/pickers.jade" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jade/preloader.jade" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jade/pulse.jade" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jade/pushpin-demo.jade" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jade/pushpin.jade" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jade/radio-buttons.jade" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jade/range.jade" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jade/sass.jade" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jade/scrollspy.jade" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jade/search.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jade/select.jade" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jade/shadow.jade" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jade/showcase.jade" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jade/showcase/showcase_content.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jade/sidenav.jade" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jade/support-us.jade" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jade/switches.jade" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jade/table.jade" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jade/tabs.jade" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jade/text-inputs.jade" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jade/themes.jade" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jade/toasts.jade" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jade/tooltips.jade" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jade/typography.jade" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jade/waves.jade" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/js/.npmignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/js/autocomplete.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/js/buttons.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/js/cards.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/js/carousel.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/js/cash.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/js/characterCounter.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/js/chips.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/js/collapsible.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/js/datepicker.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/js/dropdown.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/js/forms.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/js/global.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/js/init.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/js/jquery.timeago.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/js/materialbox.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/js/materialize.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/js/materialize.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/js/modal.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/js/parallax.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/js/prism.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/js/pushpin.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/js/range.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/js/scrollspy.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/js/select.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/js/sidenav.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/js/slider.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/js/tabs.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/js/tapTarget.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/js/timepicker.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/js/toasts.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/js/tooltip.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/js/velocity.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/js/waves.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/res/MaterializeLogo-3.ai" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/res/MaterializeLogo-3.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/res/materialize.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/sass/.npmignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/sass/_style.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/sass/components/_badges.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/sass/components/_buttons.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/sass/components/_cards.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/sass/components/_carousel.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/sass/components/_chips.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/sass/components/_collapsible.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/sass/components/_color.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/sass/components/_datepicker.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/sass/components/_dropdown.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/sass/components/_global.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/sass/components/_grid.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/sass/components/_icons-material-design.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/sass/components/_materialbox.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/sass/components/_mixins.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/sass/components/_modal.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/sass/components/_navbar.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/sass/components/_normalize.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/sass/components/_preloader.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/sass/components/_pulse.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/sass/components/_rtl.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/sass/components/_sideNav.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/sass/components/_slider.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/sass/components/_table_of_contents.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/sass/components/_tabs.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/sass/components/_tapTarget.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/sass/components/_timepicker.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/sass/components/_toast.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/sass/components/_tooltip.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/sass/components/_transitions.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/sass/components/_typography.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/sass/components/_variables.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/sass/components/_waves.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/sass/components/forms/_checkboxes.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/sass/components/forms/_file-input.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/sass/components/forms/_forms.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/sass/components/forms/_input-fields.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/sass/components/forms/_radio-buttons.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/sass/components/forms/_range.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/sass/components/forms/_select.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/sass/components/forms/_switches.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/sass/ghpages-materialize.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/sass/materialize-rtl.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/sass/materialize.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/templates/masonry-template/LICENSE" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/templates/masonry-template/background1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/templates/masonry-template/background2.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/templates/masonry-template/background3.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/templates/masonry-template/css/style.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/templates/masonry-template/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/templates/masonry-template/js/init.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/templates/masonry-template/js/masonry.pkgd.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/templates/masonry-template/preview.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/templates/parallax-template.zip" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/templates/parallax-template/LICENSE" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/templates/parallax-template/background1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/templates/parallax-template/background2.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/templates/parallax-template/background3.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/templates/parallax-template/css/style.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/templates/parallax-template/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/templates/parallax-template/js/init.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/templates/parallax-template/preview.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/templates/starter-template.zip" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/templates/starter-template/LICENSE" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/templates/starter-template/css/style.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/templates/starter-template/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/templates/starter-template/js/init.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/templates/starter-template/preview.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/test/html/badges.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/test/html/buttons.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/test/html/cards.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/test/html/carousel.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/test/html/chips.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/test/html/collapsible.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/test/html/dropdown.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/test/html/fixed_navbar.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/test/html/forms.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/test/html/materialbox.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/test/html/multiple_modals.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/test/html/multiple_sidenav.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/test/html/overlayZindex.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/test/html/pushpin.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/test/html/scrollfire.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/test/html/scrollspy.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/test/html/tabs.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/test/html/waves.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tests/spec/autocomplete/autocompleteFixture.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tests/spec/autocomplete/autocompleteSpec.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tests/spec/cards/cardsFixture.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tests/spec/cards/cardsSpec.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tests/spec/chips/chipsFixture.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tests/spec/chips/chipsSpec.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tests/spec/collapsible/collapsible.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tests/spec/collapsible/collapsibleSpec.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tests/spec/dropdown/dropdownFixture.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tests/spec/dropdown/dropdownSpec.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tests/spec/helper.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tests/spec/materialbox/materialboxFixture.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tests/spec/materialbox/materialboxSpec.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tests/spec/modal/modalFixture.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tests/spec/modal/modalSpec.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tests/spec/select/selectFixture.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tests/spec/select/selectSpec.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tests/spec/sidenav/sidenavFixture.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tests/spec/sidenav/sidenavSpec.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tests/spec/tabs/tabsFixture.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tests/spec/tabs/tabsSpec.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tests/spec/toast/toastSpec.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tests/spec/tooltip/tooltipFixture.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tests/spec/tooltip/tooltipSpec.js" />
+    <list default="true" id="187cd64a-2af4-4435-9f9d-681aa9bec93e" name="Default" comment="Materilize">
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/svg/logo.svg" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/css/mdb.min.css" afterPath="$PROJECT_DIR$/css/mdb.min.css" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
-      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change beforePath="$PROJECT_DIR$/index2.html" afterPath="$PROJECT_DIR$/index2.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -359,8 +16,37 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Asri" />
+  </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index2.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index2.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="119" column="57" lean-forward="false" selection-start-line="119" selection-start-column="57" selection-end-line="119" selection-end-column="57" />
+              <folding>
+                <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#script#0;n#head#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="71">
+              <caret line="143" column="87" lean-forward="false" selection-start-line="143" selection-start-column="87" selection-end-line="143" selection-end-column="101" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -410,8 +96,8 @@
         <option value="$PROJECT_DIR$/js/popper.min.js" />
         <option value="$PROJECT_DIR$/css/bootstrap.min.css" />
         <option value="$PROJECT_DIR$/css/mdb.min.css" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/index2.html" />
       </list>
     </option>
@@ -470,6 +156,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/img/svg" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/css" />
     </key>
@@ -512,7 +199,7 @@
       <workItem from="1516872587931" duration="428000" />
       <workItem from="1516893700303" duration="2107000" />
       <workItem from="1516899184771" duration="6091000" />
-      <workItem from="1516941646263" duration="33000" />
+      <workItem from="1516941646263" duration="3847000" />
     </task>
     <task id="LOCAL-00001" summary="fix minor bugs">
       <created>1516895405802</created>
@@ -535,26 +222,33 @@
       <option name="project" value="LOCAL" />
       <updated>1516900218975</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Materilize">
+      <created>1516950859298</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1516950859299</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27185000" />
+    <option name="totallyTimeSpent" value="30999000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16452074" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16452074" sideWeight="0.49439776" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.54171705" sideWeight="0.50572246" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="NativeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.49427754" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32889965" sideWeight="0.49427754" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24892704" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13663845" sideWeight="0.49427754" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.13663845" sideWeight="0.49427754" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16452074" sideWeight="0.50560224" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -602,7 +296,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="fix minor bugs" />
     <MESSAGE value="Footer And nav" />
-    <option name="LAST_COMMIT_MESSAGE" value="Footer And nav" />
+    <MESSAGE value="Materilize" />
+    <option name="LAST_COMMIT_MESSAGE" value="Materilize" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -614,6 +309,8 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
+            <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#script#0;n#head#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#style#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
@@ -624,6 +321,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -631,6 +329,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -638,6 +337,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -715,6 +415,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-6909">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -729,6 +430,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -736,15 +438,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="729">
           <caret line="0" column="48664" lean-forward="false" selection-start-line="0" selection-start-column="48664" selection-end-line="0" selection-end-column="48664" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/img/Logo.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/IMAGE 2018-01-25 11_52_02.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
@@ -764,6 +462,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
           <caret line="7" column="269" lean-forward="false" selection-start-line="7" selection-start-column="269" selection-end-line="7" selection-end-column="269" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -771,6 +470,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -789,6 +489,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
           <caret line="32" column="19" lean-forward="true" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -796,6 +497,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="213">
           <caret line="6" column="77098" lean-forward="false" selection-start-line="6" selection-start-column="77087" selection-end-line="6" selection-end-column="77098" />
+          <folding>
+            <element signature="e#165839#166082#2" expanded="false" />
+            <element signature="e#167496#167745#2" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -803,6 +508,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="3" column="15" lean-forward="true" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -810,13 +516,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="400">
           <caret line="10" column="28" lean-forward="true" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="8" column="31" lean-forward="true" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -828,11 +528,36 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/res/materialize.svg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/IMAGE 2018-01-25 11_52_02.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/svg/logo.svg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="71">
+          <caret line="143" column="87" lean-forward="false" selection-start-line="143" selection-start-column="87" selection-end-line="143" selection-end-column="101" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="920">
-          <caret line="23" column="56" lean-forward="true" selection-start-line="23" selection-start-column="56" selection-end-line="23" selection-end-column="56" />
+        <state relative-caret-position="180">
+          <caret line="119" column="57" lean-forward="false" selection-start-line="119" selection-start-column="57" selection-end-line="119" selection-end-column="57" />
           <folding>
+            <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#script#0;n#head#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#style#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
