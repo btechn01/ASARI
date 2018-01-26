@@ -12,8 +12,22 @@ body {
 }
 
 
-.navbar {
-    background-color: transparent;
+@media only screen and (max-width: 1024px)  {
+    .navbar{
+        background-color: #7cb342 !important;
+    }
+    .logo-on-small{
+        margin-top: 22vh;
+    }
+}
+
+@media only screen and (min-width: 1024px)  {
+    .navbar{
+        background-color: transparent !important;
+    }
+    .logo-on-small{
+        margin-top: 10vh;
+    }
 }
 
 .scrolling-navbar {
@@ -22,7 +36,7 @@ body {
     transition: background .5s ease-in-out, padding .5s ease-in-out;
 }
 .top-nav-collapse {
-    background-color: #7cb342;
+    background-color: #7cb342 !important;
 }
 
 .rslides_tabs {
